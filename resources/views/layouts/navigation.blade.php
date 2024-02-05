@@ -786,7 +786,7 @@
                                 <!-- Forms submenu list -->
                                 <ul class="mininav-content nav collapse">
                                     <li class="nav-item">
-                                        <a href="{{ route('form') }}" class="nav-link">General</a>
+                                        <a href="{{ url('form') }}" class="nav-link">General</a>
                                     </li>
                                     <li class="nav-item">
                                         <a href="forms/tags/index.html" class="nav-link">Tags</a>
