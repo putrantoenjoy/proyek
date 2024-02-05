@@ -2670,7 +2670,7 @@
     </div>
     <!-- ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ -->
     <!-- END - OFFCANVAS [ DEMO ] -->
-
+{{-- 
     <!-- JAVASCRIPTS -->
     <!-- ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ -->
 
@@ -2687,4 +2687,8 @@
 
 
 <!-- Mirrored from themeon.net/nifty/v3.0.1/ by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 24 Jan 2023 07:33:49 GMT -->
-</html>
+</html> --}}
+
+@extends('layouts.master')
+
+@endsection
